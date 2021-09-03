@@ -4,7 +4,7 @@
  * GiTee 地址： https://gitee.com/izol/Travel-Mini-Program
  */
 
-const API_HOST = 'https://cxcat.com'  // 更换为你的网站域名, 需要有 https 协议, 如 https://cxcat.com
+const API_HOST = 'http://www.imcdo.com'  // 更换为你的网站域名, 需要有 https 协议, 如 https://cxcat.com
 const Auth = require('./auth')
 
 const templates = {
